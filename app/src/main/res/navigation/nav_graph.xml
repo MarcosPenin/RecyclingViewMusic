@@ -24,10 +24,7 @@
         <action
             android:id="@+id/action_songs_to_menu"
             app:destination="@id/menu" />
-        <argument
-            android:name="genero"
-            app:argType="string"
-            android:defaultValue="x"/>
+
 
     </fragment>
 </navigation>
